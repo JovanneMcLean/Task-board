@@ -1,4 +1,7 @@
-# Task Board Task Board is a simple Kanban board application designed for task management. It allows users to add, organize, and track tasks across different stages: To Do, In Progress, and Done.
+# Task Board 
+
+
+Task Board is a simple Kanban board application designed for task management. It allows users to add, organize, and track tasks across different stages: To Do, In Progress, and Done.
 
 Features Add Task Modal: Users can add new tasks with a title, description, and due date. Drag and Drop: Tasks can be moved between lanes (To Do, In Progress, Done) using drag and drop functionality. Task Persistence: Tasks are stored locally using localStorage, ensuring data persists across page reloads. Responsive Design: Built using Bootstrap for a responsive and mobile-friendly layout. Technologies Used Bootstrap: CSS framework for styling components and layout. Font Awesome: Icons for UI elements like buttons and modal headers. jQuery UI: Provides drag and drop functionality for task cards. dayjs: Lightweight JavaScript library for date and time formatting. Setup Instructions To run the Task Board locally:
 
