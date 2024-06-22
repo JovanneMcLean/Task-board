@@ -23,4 +23,5 @@ Click on the "Delete" button on a task card to remove it from the board. Date Se
 
 Use the date picker field when adding or editing a task to select a due date. Contributing Contributions are welcome! If you'd like to contribute to Task Board, please fork the repository and create a pull request with your proposed changes.
 
-![100-third-party-apis-homework-demo](https://github.com/JovanneMcLean/Task-board/assets/107091978/e1108191-d3be-4522-900c-a30dba7f3d3f)
+![100-third-party-apis-homework-demo](https://github.com/JovanneMcLean/task-board/assets/107091978/d5d033ff-085c-4a78-80b4-37d64443707f)
+
